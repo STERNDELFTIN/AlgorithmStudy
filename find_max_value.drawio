@@ -1,0 +1,107 @@
+<mxfile host="app.diagrams.net" modified="2024-03-05T07:48:12.315Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="KX3iS_fEJDdESDUtNXP8" version="24.0.1" type="github">
+  <diagram name="페이지-1" id="1god6jwbhwp7xcxZ8ocZ">
+    <mxGraphModel dx="954" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <object label="a → max" placeholders="1" id="zES13yN_Q0wPIxXjOJku-1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;fontFamily=Helvetica;" vertex="1" parent="1">
+            <mxGeometry x="280" y="110" width="120" height="30" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="zES13yN_Q0wPIxXjOJku-4" value="" style="endArrow=none;html=1;rounded=0;fillColor=#a0522d;strokeColor=#6D1F00;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="339.5" y="110" as="sourcePoint" />
+            <mxPoint x="340" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zES13yN_Q0wPIxXjOJku-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zES13yN_Q0wPIxXjOJku-5" target="zES13yN_Q0wPIxXjOJku-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zES13yN_Q0wPIxXjOJku-5" value="c&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&amp;gt; max&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="280" y="310" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zES13yN_Q0wPIxXjOJku-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zES13yN_Q0wPIxXjOJku-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="341" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="290" />
+              <mxPoint x="341" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <object label="b → max" placeholders="1" id="zES13yN_Q0wPIxXjOJku-6">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;fontFamily=Helvetica;" vertex="1" parent="1">
+            <mxGeometry x="440" y="240" width="120" height="30" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="zES13yN_Q0wPIxXjOJku-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zES13yN_Q0wPIxXjOJku-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="420" />
+              <mxPoint x="341" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <object label="a → max" placeholders="1" id="zES13yN_Q0wPIxXjOJku-7">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;fontFamily=Helvetica;" vertex="1" parent="1">
+            <mxGeometry x="440" y="370" width="120" height="30" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="zES13yN_Q0wPIxXjOJku-8" value="" style="endArrow=none;html=1;rounded=0;fillColor=#a0522d;strokeColor=#6D1F00;" edge="1" parent="1" source="zES13yN_Q0wPIxXjOJku-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="339.5" y="200" as="sourcePoint" />
+            <mxPoint x="340" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zES13yN_Q0wPIxXjOJku-9" value="" style="endArrow=none;html=1;rounded=0;fillColor=#a0522d;strokeColor=#6D1F00;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="310" as="sourcePoint" />
+            <mxPoint x="339.5" y="247.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zES13yN_Q0wPIxXjOJku-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zES13yN_Q0wPIxXjOJku-2" target="zES13yN_Q0wPIxXjOJku-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="215" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zES13yN_Q0wPIxXjOJku-2" value="b &amp;gt; max" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="280" y="182.5" width="120" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="zES13yN_Q0wPIxXjOJku-10" value="" style="endArrow=none;html=1;rounded=0;fillColor=#a0522d;strokeColor=#6D1F00;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="440" as="sourcePoint" />
+            <mxPoint x="340" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zES13yN_Q0wPIxXjOJku-24" value="세 값의 최댓값을 구하는 순서도" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="239" y="30" width="350" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zES13yN_Q0wPIxXjOJku-26" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="190" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zES13yN_Q0wPIxXjOJku-27" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="245" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zES13yN_Q0wPIxXjOJku-28" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="320" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zES13yN_Q0wPIxXjOJku-29" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="380" width="40" height="20" as="geometry" />
+        </mxCell>
+        <UserObject label="/" placeholders="1" name="Variable" id="zES13yN_Q0wPIxXjOJku-30">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="80" y="290" width="80" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="zES13yN_Q0wPIxXjOJku-31" value="max = a;&lt;div&gt;if (b &amp;gt; max) max = b;&lt;/div&gt;&lt;div&gt;if (c &amp;gt; max) max = c;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;arcSize=13;" vertex="1" parent="1">
+          <mxGeometry x="490" y="95" width="130" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
